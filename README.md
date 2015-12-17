@@ -1,7 +1,7 @@
 # XMLCompare
 XMLCompare is a Java application that compares two XML representations of Java objects as created by XStream (http://x-stream.github.io/).
 
-Initially you have to create thw XML files to compare using XStream. You can either do this yourself, or alter the CreateTestXML.java code to import your classes and write instances of them to XML files.
+Initially you have to create the XML files to compare using XStream. You can either do this yourself, or alter the CreateTestXML.java code to import your classes and write instances of them to XML files.
 
 You can compile XMLCompare and run on the command line, or run from eclipse, providing the paths to the two files as two arguments.
 
